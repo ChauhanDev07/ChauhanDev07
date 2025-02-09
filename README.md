@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and C**
 
-- 🚀 Handling 2.5M+ Telegram Users | Crypto | Trading | Tech [https://t.me/ChauhanDev07](https://t.me/ChauhanDev07)
+- 🚀 Handling 2.5M+ Telegram Users | Crypto | Trading | Tech [Contact On Telegram](https://t.me/ChauhanDev07)
 
 - 💬 Ask me about **Crypto and Blockchain**
 

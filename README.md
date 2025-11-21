@@ -13,7 +13,7 @@
   👉 <a href="https://t.me/ChauhanDev07">Contact on Telegram</a>
 
 - 🧠 Founder: <strong></strong> —  
-  <a href="https://telegram.dog/tradinggainx">Trading GainX</a> 650K+ Subsribers
+  <a href="https://telegram.dog/tradinggainx">Trading GainX</a> 650K+ Subscribers
 
 - 💬 Ask me about <strong>Crypto and Blockchain</strong>
 

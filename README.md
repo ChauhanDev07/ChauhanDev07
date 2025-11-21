@@ -12,8 +12,8 @@
 - 🚀 Handling <strong>2.5M+ Telegram Users</strong> | Crypto | Trading | Tech  
   👉 <a href="https://t.me/ChauhanDev07">Contact on Telegram</a>
 
-- 🧠 Founder: <strong>Trading GainX</strong> —  
-  <a href="https://telegram.dog/tradinggainx">650K+ Subscribers</a>
+- 🧠 Founder: <strong></strong> —  
+  <a href="https://telegram.dog/tradinggainx">Trading GainX</a> 650K+ Subsribers
 
 - 💬 Ask me about <strong>Crypto and Blockchain</strong>
 

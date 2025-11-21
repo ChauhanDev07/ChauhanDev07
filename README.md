@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Dev Singh Chauhan</h1>
 <h3 align="center">Code, Crypto & Creativity | BTech CSE</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chauhandev07&label=Profile%20views&color=0e75b6&style=flat" alt="chauhandev07" /> </p>
-
-- 🔭 I’m currently working on [Solution DAO](https://www.linkedin.com/company/solution-dao)
-
-- 🌱 I’m currently learning **Python and C**
-
-- 🚀 Handling 2.5M+ Telegram Users | Crypto | Trading | Tech [Contact On Telegram](https://t.me/ChauhanDev07)
-
-- 💬 Ask me about **Crypto and Blockchain**
-
-- ⚡ Fun fact **Sleeps less, trades more. 🚀📉**
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=chauhandev07&label=Profile%20views&color=0e75b6&style=flat" alt="chauhandev07" />
 </p>
 
+- 🔭 Founder: <a href="https://www.linkedin.com/company/solution-dao">Solution DAO</a>
 
+- 🌱 I’m currently learning <strong>Python and Telegram Bot Development</strong>
+
+- 🚀 Handling <strong>2.5M+ Telegram Users</strong> | Crypto | Trading | Tech  
+  👉 <a href="https://t.me/ChauhanDev07">Contact on Telegram</a>
+
+- 🧠 Founder: <strong>Trading GainX</strong> —  
+  <a href="https://telegram.dog/tradinggainx">650K+ Subscribers</a>
+
+- 💬 Ask me about <strong>Crypto and Blockchain</strong>
+
+- ⚡ Fun fact: <strong>Sleeps less, trades more. 🚀📉</strong>

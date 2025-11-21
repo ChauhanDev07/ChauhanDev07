@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Crypto and Blockchain**
 
-- 📫 How to reach me **mail@ChauhanDev.com**
-
 - ⚡ Fun fact **Sleeps less, trades more. 🚀📉**
 
 <h3 align="left">Connect with me:</h3>
